@@ -1,0 +1,152 @@
+[
+    {
+        "first_name": "Customer1",
+        "last_name": "Lastname1",
+        "email": "customer1@example.com",
+        "phone": "1000000001"
+    },
+    {
+        "first_name": "Customer2",
+        "last_name": "Lastname2",
+        "email": "customer2@example.com",
+        "phone": "1000000002"
+    },
+    {
+        "first_name": "Customer3",
+        "last_name": "Lastname3",
+        "email": "customer3@example.com",
+        "phone": "1000000003"
+    },
+    {
+        "first_name": "Customer4",
+        "last_name": "Lastname4",
+        "email": "customer4@example.com",
+        "phone": "1000000004"
+    },
+    {
+        "first_name": "Customer5",
+        "last_name": "Lastname5",
+        "email": "customer5@example.com",
+        "phone": "1000000005"
+    },
+    {
+        "first_name": "Customer6",
+        "last_name": "Lastname6",
+        "email": "customer6@example.com",
+        "phone": "1000000006"
+    },
+    {
+        "first_name": "Customer7",
+        "last_name": "Lastname7",
+        "email": "customer7@example.com",
+        "phone": "1000000007"
+    },
+    {
+        "first_name": "Customer8",
+        "last_name": "Lastname8",
+        "email": "customer8@example.com",
+        "phone": "1000000008"
+    },
+    {
+        "first_name": "Customer9",
+        "last_name": "Lastname9",
+        "email": "customer9@example.com",
+        "phone": "1000000009"
+    },
+    {
+        "first_name": "Customer10",
+        "last_name": "Lastname10",
+        "email": "customer10@example.com",
+        "phone": "1000000010"
+    },
+    {
+        "first_name": "Customer11",
+        "last_name": "Lastname11",
+        "email": "customer11@example.com",
+        "phone": "1000000011"
+    },
+    {
+        "first_name": "Customer12",
+        "last_name": "Lastname12",
+        "email": "customer12@example.com",
+        "phone": "1000000012"
+    },
+    {
+        "first_name": "Customer13",
+        "last_name": "Lastname13",
+        "email": "customer13@example.com",
+        "phone": "1000000013"
+    },
+    {
+        "first_name": "Customer14",
+        "last_name": "Lastname14",
+        "email": "customer14@example.com",
+        "phone": "1000000014"
+    },
+    {
+        "first_name": "Customer15",
+        "last_name": "Lastname15",
+        "email": "customer15@example.com",
+        "phone": "1000000015"
+    },
+    {
+        "first_name": "Customer16",
+        "last_name": "Lastname16",
+        "email": "customer16@example.com",
+        "phone": "1000000016"
+    },
+    {
+        "first_name": "Customer17",
+        "last_name": "Lastname17",
+        "email": "customer17@example.com",
+        "phone": "1000000017"
+    },
+    {
+        "first_name": "Customer18",
+        "last_name": "Lastname18",
+        "email": "customer18@example.com",
+        "phone": "1000000018"
+    },
+    {
+        "first_name": "Customer19",
+        "last_name": "Lastname19",
+        "email": "customer19@example.com",
+        "phone": "1000000019"
+    },
+    {
+        "first_name": "Customer20",
+        "last_name": "Lastname20",
+        "email": "customer20@example.com",
+        "phone": "1000000020"
+    },
+    {
+        "first_name": "Customer21",
+        "last_name": "Lastname21",
+        "email": "customer21@example.com",
+        "phone": "1000000021"
+    },
+    {
+        "first_name": "Customer22",
+        "last_name": "Lastname22",
+        "email": "customer22@example.com",
+        "phone": "1000000022"
+    },
+    {
+        "first_name": "Customer23",
+        "last_name": "Lastname23",
+        "email": "customer23@example.com",
+        "phone": "1000000023"
+    },
+    {
+        "first_name": "Customer24",
+        "last_name": "Lastname24",
+        "email": "customer24@example.com",
+        "phone": "1000000024"
+    },
+    {
+        "first_name": "Customer25",
+        "last_name": "Lastname25",
+        "email": "customer25@example.com",
+        "phone": "1000000025"
+    }
+]
