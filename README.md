@@ -1,5 +1,5 @@
 # Order Management API
-This is a Flask + MongoDBvbased Order Management API that provides Customer Management, Order Processing, and Analytics capabilities.
+This is a Flask + MongoDB based Order Management API that provides Customer Management, Order Processing, and Analytics capabilities.
 
 ---
 
@@ -37,7 +37,7 @@ Order Analytics (Top Customers, Sales by ZIP, Peak Order Times)
 
 2. Create a virtual environment
    python3 -m venv venv
-   source venv/bin/activate  # On Windows, use venv\Scripts\activate
+   source venv/bin/activate
 
 3. Install dependencies
    pip install -r requirements.txt
