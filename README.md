@@ -32,7 +32,7 @@ Order Analytics (Top Customers, Sales by ZIP, Peak Order Times)
 
 ### Steps
 1. Clone the repository
-   git clone https://github.com/yourrepo/order-management-api.git
+   git clone https://github.com/shvenkobarao/Oder_Management.git
    cd order-management-api
 
 2. Create a virtual environment
