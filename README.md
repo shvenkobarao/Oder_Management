@@ -55,13 +55,21 @@ Order Analytics (Top Customers, Sales by ZIP, Peak Order Times)
 
 ## API Endpoints
 ### Customers API
-| `/customers` | `POST` | Create a new customer |
-| `/customers?email={email}` | `GET` | Get customer by email |
-| `/customers?phone={phone}` | `GET` | Get customer by phone |
+Create a new customer
+`/customers` | `POST`
+
+Get customer by email
+`/customers?email={email}` | `GET`
+
+Get customer by phone
+`/customers?phone={phone}` | `GET`
 
 ### Orders API
-| `/orders` | `POST` | Create a new order |
-| `/orders?email={email}` | `GET` | Get order history for a customer |
+Create a new order 
+`/orders` | `POST`
+
+Get order history for a customer
+`/orders?email={email}` | `GET`
 
 ### Analytics API
 Orders aggregated by billing ZIP: 
